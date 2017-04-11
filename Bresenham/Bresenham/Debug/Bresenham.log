@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\10545\documents\visual studio 2015\projects\bresenham\bresenham\main.cpp(24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Bresenham.vcxproj -> C:\Users\10545\Documents\Visual Studio 2015\Projects\Bresenham\Debug\Bresenham.exe
+  Bresenham.vcxproj -> C:\Users\10545\Documents\Visual Studio 2015\Projects\Bresenham\Debug\Bresenham.pdb (Full PDB)
