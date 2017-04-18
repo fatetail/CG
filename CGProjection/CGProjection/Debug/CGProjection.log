@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\10545\documents\github\cg\cgprojection\cgprojection\main.cpp(13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\10545\documents\github\cg\cgprojection\cgprojection\main.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  CGProjection.vcxproj -> C:\Users\10545\Documents\GitHub\CG\CGProjection\Debug\CGProjection.exe
+  CGProjection.vcxproj -> C:\Users\10545\Documents\GitHub\CG\CGProjection\Debug\CGProjection.pdb (Full PDB)
