@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\10545\documents\github\cg\cameraclass\cameraclass\camera.h(9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\10545\documents\github\cg\cameraclass\cameraclass\source.cpp(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\10545\documents\github\cg\cameraclass\cameraclass\source.cpp(126): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\10545\documents\github\cg\cameraclass\cameraclass\source.cpp(127): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\10545\documents\github\cg\cameraclass\cameraclass\source.cpp(130): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\10545\documents\github\cg\cameraclass\cameraclass\source.cpp(133): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  CameraClass.vcxproj -> C:\Users\10545\Documents\GitHub\CG\CameraClass\Debug\CameraClass.exe
+  CameraClass.vcxproj -> C:\Users\10545\Documents\GitHub\CG\CameraClass\Debug\CameraClass.pdb (Full PDB)

@@ -4,7 +4,7 @@
 
 using namespace std;
 
-static GLdouble viewer[] = { 0,0,10};  // initial viewer location
+static GLdouble viewer[] = { 0,10,10};  // initial viewer location
 GLfloat vertices[8][3] = {
 	{ 0.45,-0.55,-1.55 },{ 0.55,-0.55,-1.55 },
 	{ 0.55,-0.45,-1.55 },{ 0.45,-0.45,-1.55 },
