@@ -33,6 +33,10 @@ void MyMouse(int button, int state, int x, int y) {
 	float window_x, window_y;
 
 	if (button == GLUT_LEFT_BUTTON && state == GLUT_DOWN) {
+		if (cur_index == 4 && cpt_index == 4) {
+			cur_index = 0;
+			cpt_index = 0;
+		}
 		window_x = (2.0*x) / (GLfloat)(window_width - 1) - 1.0;
 		window_y = (2.0*(window_height - 1 - y)) / (GLfloat)(window_height - 1) - 1.0;
 		cpts[cpt_index][0] = window_x;
@@ -55,7 +59,6 @@ void MyMouse(int button, int state, int x, int y) {
 	}
 	else if (cur_index == 4) {
 		can_draw = true;
-
 	}
 }
 void KeyBoard(unsigned char key, int x, int y) {
